@@ -34,10 +34,6 @@ This is a program, which can be used by oneschool to check and complete homework
 
 ![image-20211115150426845](https://user-images.githubusercontent.com/95628608/144982333-1cc667da-5844-499b-b214-76a77ac35c78.png)
 
-**Schedule add**
-
-![image-20211115150426845](https://user-images.githubusercontent.com/95628608/144982333-1cc667da-5844-499b-b214-76a77ac35c78.png)
-
 **Student main window**
 
 ![image-20211115150843675](https://user-images.githubusercontent.com/95628608/144982337-06c08e8f-a780-4d57-a306-2a9b41017685.png)
