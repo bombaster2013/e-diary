@@ -1,6 +1,6 @@
 # E-Diary
 
-electronic diary for single school school
+Electronic diary for single school school
 
 ## About
 
